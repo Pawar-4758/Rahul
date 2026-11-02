@@ -1,0 +1,8 @@
+{
+  "name": "Way Ora Journeys",
+  "description": "Premium car rental, outstation road trips, airport transfers, and curated holiday tour packages with verified chauffeurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
